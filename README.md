@@ -1,11 +1,11 @@
 ## Introduction à Python pour le Machine Learning
 
-Executive Master Statistique et Big Data - 2020-2021
+Executive Master Statistique et Big Data - 2021-2022
 
 Planning:  
-- Session 1: Mardi 29 Septembre 18h-21h - *Introduction au langage Python.*
-- Session 2: Mardi 15 Octobre 16h30-19h30 - *Introduction aux packages essentiels à la programmation scientifique.*
-- Session 2: Jeudi 19 Novembre 09h-12h - *Projet de machine learning avec pandas et sklearn.*
+- Session 1: Jeudi 14 Octobre 15h30-18h30 - *Introduction au langage Python.*
+- Session 2: Mardi 9 Novembre 18h-21h - *Introduction aux packages essentiels à la programmation scientifique.*
+- Session 2: Jeudi 18 Novembre 13h-16h - *TP sur numpy avec le Nearest Centroid.*
 
 ### A installer avant la 1ère session:  
 
