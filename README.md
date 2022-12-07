@@ -3,9 +3,9 @@
 Executive Master Statistique et Big Data - 2021-2022
 
 Planning:  
-- Session 1: Jeudi 14 Octobre 15h30-18h30 - *Introduction au langage Python.*
-- Session 2: Mardi 9 Novembre 18h-21h - *Introduction aux packages essentiels à la programmation scientifique.*
-- Session 2: Jeudi 18 Novembre 13h-16h - *TP sur numpy avec le Nearest Centroid.*
+- Session 1: Jeudi 08 Decembre 13h30-16h30 - *Introduction au langage Python.*
+- Session 2: Mardi 14 Decembre 18h-21h - *Introduction aux packages essentiels à la programmation scientifique.*
+- Session 2: Mardi 03 Janvier 18h-21h - *TP sur numpy avec le Nearest Centroid.*
 
 ### A installer avant la 1ère session:  
 
