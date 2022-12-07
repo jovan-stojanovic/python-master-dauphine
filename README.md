@@ -1,6 +1,6 @@
 ## Introduction à Python pour le Machine Learning
 
-Executive Master Statistique et Big Data - 2021-2022
+Executive Master Statistique et Big Data - 2022-2023
 
 Planning:  
 - Session 1: Jeudi 08 Decembre 13h30-16h30 - *Introduction au langage Python.*
