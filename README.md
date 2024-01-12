@@ -3,9 +3,10 @@
 Executive Master Statistique et Big Data - 2022-2023
 
 Planning:  
-- Session 1: Jeudi 08 Decembre 13h30-16h30 - *Introduction au langage Python.*
-- Session 2: Mardi 14 Decembre 18h-21h - *Introduction aux packages essentiels à la programmation scientifique.*
-- Session 2: Mardi 03 Janvier 18h-21h - *TP sur numpy avec le Nearest Centroid.*
+- Session 1: Jeudi 18 Janvier 13h30-16h30 - *Introduction au langage Python.*
+- Session 2: Mardi 06 Fevrier 18h-21h - *Introduction aux packages essentiels à la programmation scientifique.*
+- Session 3: Mardi 13 Fevrier 18h-21h - *TP sur numpy avec le Nearest Centroid.*
+- Session 4: TBD - *Introduction à `pandas`.*
 
 ### A installer avant la 1ère session:  
 
@@ -21,7 +22,7 @@ Vérifiez que vous arrivez à ouvrir un notebook jupyter, comme indiqué [ici](h
 #### Option 2: installation manuelle   
 
 Une autre solution est:  
-- installer Python (version >= 3.6, 3.8 recommandée).
+- installer Python (version >= 3.8, 3.10 recommandée).
 [Lien sur comment faire une installation propre de Python en fonction de son système d'exploitation](http://docs.python-guide.org/en/latest/starting/installation/).
 - installer les packages complémentaires `numpy`, `scipy`, `matplotlib`, `pandas`, `sklearn`, `seaborn`, `jupyter`
 - de gérer ses environnement virtuels avec [virtualenv](https://virtualenv.pypa.io/en/latest/) et [virtualenvwrapper](http://virtualenvwrapper.readthedocs.io/en/latest/).
