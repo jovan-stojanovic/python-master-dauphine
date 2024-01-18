@@ -1,6 +1,6 @@
 ## Introduction à Python pour le Machine Learning
 
-Executive Master Statistique et Big Data - 2022-2023
+Executive Master Statistique et Big Data - 2023-2024
 
 Planning:  
 - Session 1: Jeudi 18 Janvier 13h30-16h30 - *Introduction au langage Python.*
@@ -15,7 +15,7 @@ Pour obtenir un environnement de programmation scientifique, Python peut être c
 #### Option 1: installation rapide avec Anaconda (recommandée)
 
 Anaconda est une distribution Python qui inclut de nombreux packages Python pour la programmation scientifique. C'est une façon pratique pour installer et mettre en place son environnement de travail sous n'importe quel système d'exploitation.  
-[Lien pour installer anaconda](https://docs.anaconda.com/anaconda/install/). **Installer Python >=3.6** (version 3.8 recommandée).
+[Lien pour installer anaconda](https://docs.anaconda.com/anaconda/install/). **Installer Python >=3.8** (version 3.10 recommandée).
 
 Vérifiez que vous arrivez à ouvrir un notebook jupyter, comme indiqué [ici](https://docs.anaconda.com/anaconda/user-guide/getting-started/#run-python-in-a-jupyter-notebook).
 
@@ -32,4 +32,4 @@ Vérifiez que vous arrivez à ouvrir un notebook jupyter, avec la commande `jupy
 
 ### Liens
 
-[Hitchhiker's guide to Python](http://docs.python-guide.org/en/latest/) 
+[Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/) 
