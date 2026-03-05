@@ -1,12 +1,12 @@
 ## Introduction à Python pour le Machine Learning
 
-Executive Master Statistique et Big Data - 2023-2024
+Executive Master Statistique et Intelligence Artificielle - 2025-2026
 
 Planning:  
-- Session 1: Jeudi 18 Janvier 13h30-16h30 - *Introduction au langage Python.*
-- Session 2: Mardi 06 Fevrier 18h-21h - *Introduction aux packages essentiels à la programmation scientifique.*
-- Session 3: Mardi 13 Fevrier 18h-21h - *TP sur numpy avec le Nearest Centroid.*
-- Session 4: TBD - *Introduction à `pandas`.*
+- Session 1: Mardi 10 Mars 18h-21h - *Introduction au langage Python.*
+- Session 2: Mardi 17 Mars 18h-21h - *Introduction aux packages essentiels à la programmation scientifique.*
+- Session 3: Mardi 24 Mars 18h-21h - *TP - Introduction aux DataFrames avec polars*
+- Session 4: Mardi 31 Mars 18h-21h - *TP – Apprentissage automatique avec scikit-learn*
 
 ### A installer avant la 1ère session:  
 
@@ -22,14 +22,14 @@ Vérifiez que vous arrivez à ouvrir un notebook jupyter, comme indiqué [ici](h
 #### Option 2: installation manuelle   
 
 Une autre solution est:  
-- installer Python (version >= 3.8, 3.10 recommandée).
+- installer Python (version >= 3.11 recommandée).
 [Lien sur comment faire une installation propre de Python en fonction de son système d'exploitation](http://docs.python-guide.org/en/latest/starting/installation/).
-- installer les packages complémentaires `numpy`, `scipy`, `matplotlib`, `pandas`, `sklearn`, `seaborn`, `jupyter`
+- installer les packages complémentaires `numpy`, `scipy`, `matplotlib`, `pandas`, `scikit-learn`, `seaborn`, `jupyter`
 - de gérer ses environnement virtuels avec [virtualenv](https://virtualenv.pypa.io/en/latest/) et [virtualenvwrapper](http://virtualenvwrapper.readthedocs.io/en/latest/).
 
 Vérifiez que vous arrivez à ouvrir un notebook jupyter, avec la commande `jupyter-notebook` dans le virtualenv.
 
-
 ### Liens
 
-[Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/) 
+- [Hitchhiker's Guide to Python](http://docs.python-guide.org/) 
+- [Scientific Python Lectures](https://lectures.scientific-python.org/)
