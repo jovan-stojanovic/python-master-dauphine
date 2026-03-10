@@ -14,8 +14,8 @@ Pour obtenir un environnement de programmation scientifique, Python peut être c
 
 #### Option 1: installation rapide avec Anaconda (recommandée)
 
-- 1. Aller sur le site d'Anaconda: Downloads: https://www.anaconda.com/download/success et télécharger Anaconda Distribution.
-- 2. Une fois le setup téléchargé, l'exécuter: **accepter tous les paramètres.**
+1. Aller sur le site d'Anaconda: Downloads: https://www.anaconda.com/download/success et télécharger Anaconda Distribution.
+2. Une fois le setup téléchargé, l'exécuter: **accepter tous les paramètres.**
 
 #### Option 2: installation manuelle   
 
